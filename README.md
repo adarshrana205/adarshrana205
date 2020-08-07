@@ -1,4 +1,4 @@
-### Contact me:
+
 
 <!--
 **adarshrana205/adarshrana205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm Adarsh.</h1>
 
+### Contact me:
 <a align="right" style="margin:'0px 15px'" href="https://www.linkedin.com/in/adarsh-rana-298355171/" >
 <img  width="30" height="30" src="https://user-images.githubusercontent.com/43617894/87023444-570f7300-c1f5-11ea-88ec-9042bb6889ee.png">
 </a>
