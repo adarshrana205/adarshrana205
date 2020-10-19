@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Adarsh Rana!</h1> 
-
-<iframe src="https://giphy.com/embed/l41lJ8ywG1ncm9FXW" width="480" height="339" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/brain-neuroscience-visualization-l41lJ8ywG1ncm9FXW">via GIPHY</a></p>
+## Hi 👋, I'm Adarsh Rana <img src="https://media.giphy.com/media/Lp2DXaHwco9FK/giphy.gif" width="40px">
+<p align="left"><img width=200px src="https://media.giphy.com/media/l41lJ8ywG1ncm9FXW/giphy.gif"></p>
 
 
 ### Contact me:
