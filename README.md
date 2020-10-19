@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi 👋, I'm Adarsh Rana <img src="https://media.giphy.com/media/Lp2DXaHwco9FK/giphy.gif" width="40px">
-<p align="left"><img width=200px src="https://media.giphy.com/media/l41lJ8ywG1ncm9FXW/giphy.gif"></p>
+## Hi 👋, I'm Adarsh Rana! <img src="https://user-images.githubusercontent.com/42955521/96510808-b90f5800-127b-11eb-9db6-dcc02afceb2b.gif" width="35px">
+<p align="left"><img width=200px src="https://user-images.githubusercontent.com/42955521/96510652-7baaca80-127b-11eb-815f-d756ffa96c7d.gif"></p>
 
 
 ### Contact me:
